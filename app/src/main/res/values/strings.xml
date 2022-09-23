@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">simple</string>
+    <dimen name="text_anim_step">5dp</dimen>
+</resources>
